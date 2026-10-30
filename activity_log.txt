@@ -1,0 +1,31 @@
+2026-10-29 08:37:32|admin|ADMIN|Login successful
+2026-10-29 08:39:07|admin|ADMIN|Login successful
+2026-10-29 08:40:16|admin|ADMIN|Login successful
+2026-10-29 08:40:54|admin|ADMIN|Viewed roads
+2026-10-29 08:43:09|admin|ADMIN|Login successful
+2026-10-29 08:43:12|admin|ADMIN|Viewed roads
+2026-10-29 08:43:27|admin|ADMIN|Viewed intersections
+2026-10-29 08:43:39|admin|ADMIN|Viewed vehicles
+2026-10-29 08:43:48|admin|ADMIN|Viewed signals
+2026-10-29 08:44:16|admin|ADMIN|Viewed traffic readings
+2026-10-29 08:48:34|admin|ADMIN|Viewed traffic readings
+2026-10-29 08:48:44|admin|ADMIN|Viewed incidents
+2026-10-29 08:51:27|admin|ADMIN|Viewed incidents
+2026-10-29 08:51:45|admin|ADMIN|Viewed dashboard
+2026-10-29 08:51:58|admin|ADMIN|Saved all records
+2026-10-29 08:52:28|admin|ADMIN|Searched roads for: Karve
+2026-10-29 08:52:39|admin|ADMIN|Filtered traffic readings: HIGH
+2026-10-29 08:52:59|admin|ADMIN|Searched incidents
+2026-10-29 08:53:16|admin|ADMIN|Searched incidents
+2026-10-29 08:53:31|admin|ADMIN|Searched incidents
+2026-10-29 08:53:58|admin|ADMIN|Updated incident 2 status to Resolved
+2026-10-29 08:54:22|admin|ADMIN|Logout
+2026-10-29 08:55:08|user1|NORMAL|Registered normal user
+2026-10-29 08:55:08|user1|NORMAL|Login successful
+2026-10-29 08:55:14|user1|NORMAL|Logout
+2026-10-29 08:55:39|user1|NORMAL|Login successful
+2026-10-29 08:58:42|user1|NORMAL|Exit
+2026-10-29 11:59:49|admin|ADMIN|Login successful
+2026-10-29 12:01:34|admin|ADMIN|Searched roads for: FC Road
+2026-10-29 12:02:40|admin|ADMIN|Filtered traffic readings: HIGH
+2026-10-29 12:03:09|admin|ADMIN|Exit

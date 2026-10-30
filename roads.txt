@@ -1,0 +1,10 @@
+1|FC Road|Deccan|Shivajinagar|3.5
+2|JM Road|Deccan|Sambhaji Park|2.8
+3|Karve Road|Kothrud|Deccan|5.2
+4|Baner Road|Baner|Aundh|7.4
+5|Paud Road|Kothrud|Paud Phata|4.6
+6|University Road|Aundh|Shivajinagar|5.1
+7|Sinhagad Road|Dattawadi|Anand Nagar|8.2
+8|Pashan Road|Pashan|Baner|3.9
+9|Solapur Road|Hadapsar|Camp|9.5
+10|Anand Nagar x Kothrud|Anand Nagar|Kothrud|6

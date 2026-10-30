@@ -1,0 +1,10 @@
+1|MH12AB1234|Car|FC Road
+2|MH12CD5678|Bike|JM Road
+3|MH12EF9012|Bus|Karve Road
+4|MH12GH3456|Truck|Anand Nagar x Kothrud
+5|MH12JK1020|Car|Baner Road
+6|MH12LM3040|Bike|Paud Road
+7|MH12NP5060|Bus|University Road
+8|MH12QR7080|Truck|Sinhagad Road
+9|MH12ST9010|Car|Pashan Road
+10|MH12UV1122|Auto|Solapur Road

@@ -1,0 +1,7 @@
+1|ACCIDENT|FC Road|Minor collision near junction|Reported
+2|ROADBLOCK|Karve Road|Road maintenance work|Resolved
+3|ACCIDENT|Baner Road|Vehicle collision|Reported
+4|ROADBLOCK|Paud Road|Road repair work|Resolved
+5|ACCIDENT|Sinhagad Road|Two wheeler accident|Resolved
+6|ROADBLOCK|Solapur Road|Temporary lane closure|In Progress
+7|ACCIDENT|Karve Road|Major collision|Reported

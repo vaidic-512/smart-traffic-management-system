@@ -1,0 +1,2 @@
+admin|admin123|ADMIN
+user1|user123|NORMAL

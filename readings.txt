@@ -1,0 +1,11 @@
+1|FC Road|95|10|HIGH
+2|JM Road|55|22|MODERATE
+3|Karve Road|20|40|LOW
+4|Anand Nagar x Kothrud|110|8|HIGH
+5|Baner Road|88|12|HIGH
+6|Paud Road|48|25|MODERATE
+7|University Road|25|42|LOW
+8|Sinhagad Road|120|9|HIGH
+9|Pashan Road|60|28|MODERATE
+10|Solapur Road|15|45|LOW
+11|University Road|100|7.5|HIGH

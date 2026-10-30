@@ -1,0 +1,8 @@
+1|Deccan Junction|60|GREEN
+2|Kothrud Junction|45|RED
+3|Anand Nagar Junction|50|YELLOW
+4|Baner Junction|55|GREEN
+5|Paud Phata Junction|40|RED
+6|University Circle|65|GREEN
+7|Hadapsar Junction|50|YELLOW
+8|Sinhagad Road Junction|45|RED

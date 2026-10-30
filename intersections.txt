@@ -1,0 +1,10 @@
+1|FC Road|Deccan
+2|JM Road|Deccan
+3|Karve Road|Kothrud
+4|Baner Road|Baner
+5|Paud Road|Kothrud
+6|University Road|Aundh
+7|Sinhagad Road|Dattawadi
+8|Pashan Road|Pashan
+9|Solapur Road|Hadapsar
+10|Anand Nagar x Kothrud|Anand Nagar
